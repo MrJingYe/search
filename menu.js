@@ -1,0 +1,51 @@
+const searchEngines = [{
+    "id": 0,
+    "name": "百度",
+    "img": "url('https:\/\/dl3.img.timecdn.cn\/2022\/06\/12\/baidu.png')",
+    "url": "https:\/\/www.baidu.com\/s?wd="
+}, {
+    "id": 1,
+    "name": "搜狗",
+    "img": "url('https:\/\/dl2.img.timecdn.cn\/2022\/06\/12\/sogou.png')",
+    "url": "https:\/\/www.sogou.com\/web?query="
+}, {
+    "id": 2,
+    "name": "360",
+    "img": "url('https:\/\/dl3.img.timecdn.cn\/2022\/06\/12\/360.png')",
+    "url": "https:\/\/www.so.com\/s?q="
+}, {
+    "id": 3,
+    "name": "Google",
+    "img": "url('https:\/\/dl.img.timecdn.cn\/2022\/06\/12\/google.png')",
+    "url": "https:\/\/www.google.com\/search?q="
+}, {
+    "id": 4,
+    "name": "Bing",
+    "img": "url('https:\/\/dl3.img.timecdn.cn\/2022\/06\/12\/bing.png')",
+    "url": "https:\/\/cn.bing.com\/search?q="
+}, {
+    "id": 5,
+    "name": "Github",
+    "img": "url('https:\/\/dl.img.timecdn.cn\/2022\/06\/12\/github.png')",
+    "url": "https:\/\/github.com\/search?q="
+}, {
+    "id": 6,
+    "name": "Yandex",
+    "img": "url('https:\/\/dl2.img.timecdn.cn\/2022\/06\/12\/yandex.png')",
+    "url": "https:\/\/yandex.com\/search\/?text="
+}, {
+    "id": 7,
+    "name": "谷歌镜像",
+    "img": "url('https:\/\/dl.img.timecdn.cn\/2022\/06\/12\/google.png')", //疑似可能会失效，正在寻找相关镜像站，如果您有幸看到此代码，希望您能推荐一个Google镜像站，谢谢！
+    "url": "https://xn--flw351e.ml/search?q="
+}, {
+    "id": 8,
+    "name": "F 搜索",
+    "img": "url('https:\/\/dl.img.timecdn.cn\/2022\/06\/12\/fsou.png')",
+    "url": "https:\/\/fsoufsou.com\/search?q="
+}, {
+    "id": 8,
+    "name": "wikipedia",
+    "img": "url('https:\/\/dl3.img.timecdn.cn\/2022\/06\/12\/wikipedia.png')",
+    "url": "https://wiwiki.kfd.me/w/index.php?search="
+}];
