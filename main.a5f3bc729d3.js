@@ -373,7 +373,9 @@
             };
         h._withStripped = !0;
         var d = [{
-
+            name: "C404导航页",
+            icon: n(126)
+            url: "https://www.google.com/"
         }, ];
 
         function m(t) {
